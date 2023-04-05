@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A Digital Florilegium
-description: A philosophical evaluation of digital art
+description: A philosophical evaluation of digital art, <i>In Progress</i>
 img: assets/img/Screen Shot 2023-04-05 at 1.31.17 PM.png
 redirect: https://lgsump.github.io/digital-florilegium
 importance: 1
