@@ -40,9 +40,13 @@ Undergoing training for the exhibitions that are ongoing at the Harry Ransom Cen
 <br>
 Engaging in thematic analysis of the different exhibitions and constructing independent research including work on early production art and storyboards in film. 
 <br>
-BB.Q Chicken, Highland Village, Austin, Texas		     	 	  			         Aug. 2021 – Present
-Server and Waiter			 									           	           
+<br>
+<i>BB.Q Chicken, Highland Village, Austin, Texas</i>, <b>Aug. 2021 – Present<b>
+<br>
+Server and Waiter	
+<br>
 Serving tables and packed to-go meals at a Korean fried-chicken restaurant, trained new employees on how to wait on tables and how to pack to-go meals, and established comfortable relationships with coworkers and managers.
+  <br>
 Working under tense and stressful situations, mainly working Friday and Saturday nights; would sometimes have up to 9 tables at once; fast decision making and necessary prioritization of tasks.
 <br>
 <br>
