@@ -1,7 +1,7 @@
 ---
 layout: page
 title: elgar's enigma
-description: a guide to solve the mystery
+description: a guide to solve the mystery, Feb 2023
 img: assets/img/Screen Shot 2023-04-05 at 1.29.48 PM.png
 redirect: https://lgsump.github.io/elgar-enigma-variations/
 importance: 2
