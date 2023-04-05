@@ -4,5 +4,5 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: LUKE_SUMPTER_RESUME.docx (2).pdf
+cv_pdf: LUKE_SUMPTER_RESUME.pdf
 ---
