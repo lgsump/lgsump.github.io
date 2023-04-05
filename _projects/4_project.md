@@ -5,5 +5,5 @@ description: Writing sample; image from UT's <a href="https://notevenpast.org/lo
 img: assets/img/althusser.jpeg
 redirect: https://lgsump.github.io/assets/pdf/CONTRADICTION.pdf
 importance: 1
-category: fun
+category: regular
 ---
