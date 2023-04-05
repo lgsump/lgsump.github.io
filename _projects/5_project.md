@@ -5,7 +5,7 @@ description: A project I organized and did HTML for PhD Candidate Vera Estrada B
 img: assets/img/Screen Shot 2023-04-05 at 1.25.00 PM.png
 redirect: https://lgsump.github.io/radio-venceremos-espanol
 importance: 3
-category: work
+category: dh
 ---
 
 Every project has a beautiful feature showcase page.
