@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: plzwork.jpg
+  image: <img width="200" alt="LUKEGSUMPTERPHOTO" src="https://user-images.githubusercontent.com/122332459/230002304-4f9228e8-9370-4e1d-b870-b52c06792859.png">
   image_circular: false # crops the image to make it circular
   address: 
 
