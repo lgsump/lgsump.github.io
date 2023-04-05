@@ -2,7 +2,7 @@
 layout: page
 title: dh projects
 permalink: /projects/
-description: digital humanities projects
+description: Projects within Digital Humanities, ranging from personal pieces about music I like to academic arguments through digital means. Ultimately, making my work through digital means allows it to be creative, to be accessible to many people, and to continue hands-on experience with the human and creative interaction with the virtual. Though each project could differ in subject, they all connect to how we as humans translate our ideas from the real and physical to the virtual. 
 nav: true
 nav_order: 2
 display_categories: [work, fun]
