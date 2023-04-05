@@ -2,10 +2,7 @@
 layout: page
 title: dh projects
 permalink: /projects/
-description: Here lies my projects within Digital Humanities, ranging from personal pieces about music I like to academic arguments through digital means. Ultimately, making my work through digital means allows it to be creative, to be accessible to many people, and to continue hands-on experience with the human and creative interaction with the virtual. Though each project could differ in subject, they all connect to how we as humans translate our ideas from the real and physical to the virtual. 
-<br>
-<br>
-This page will also include digital formats of classic-style writing projects, term papers, and essays. 
+description: Here lies my projects within Digital Humanities, ranging from personal pieces about music I like to academic arguments through digital means. Ultimately, making my work through digital means allows it to be creative, to be accessible to many people, and to continue hands-on experience with the human and creative interaction with the virtual. Though each project could differ in subject, they all connect to how we as humans translate our ideas from the real and physical to the virtual. This page will also include digital formats of classic-style writing projects, term papers, and essays. 
 nav: true
 nav_order: 2
 display_categories: [dh, regular]
