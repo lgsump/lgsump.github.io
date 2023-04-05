@@ -6,7 +6,7 @@ subtitle: Luke G. Sumpter
 
 profile:
   align: right
-  image: assets/img/LUKESUMPTERPHOTO.png
+  image: LUKESUMPTERPHOTO.png
   image_circular: false # crops the image to make it circular
   address: 
 
