@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Luke G. Sumpter
+subtitle:
 
 
 news: false  # includes a list of news items
