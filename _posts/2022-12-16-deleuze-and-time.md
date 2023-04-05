@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Deleuze and Time
-date:   2021-02-06 12:30:12
+date:   2022-12-06 12:30:12
 description: Looking into <i>Cinema I</i> and, mainly, <i>Cinema II</i>. 
 tags: 
 categories: 
