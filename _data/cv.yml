@@ -36,10 +36,6 @@
         - Undergoing training for the exhibitions that are ongoing at the Harry Ransom Center, a humanities and art research center and library-archive-museum, providing public and private tours.
         - Engaging in thematic analysis of the different exhibitions and constructing independent research including work on early production art and storyboards in film. 
 
-    - title: Server
-      institution: BB.Q. Chicken Highland Village, Cedar Park, Austin, Texas
-      year: Aug. 2021 - Present
-
     - title: Student Mobilization Fellow
       institution: Julie Oliver for House of Representatives, Austin, Texas
       year: Aug. 2020 - Dec. 2020
@@ -65,8 +61,9 @@
   contents:
     - year: 2023
       items: 
-        - UT Co-Op George H. Mitchell Award
-        - The Ronald Schuchard Undergraduate Archival Research Prize
+        - University Honors
+        - Departmental Honors
+        - Phi Alpha Theta
 
 - title: Presentations
   type: time_table
@@ -74,11 +71,28 @@
     - year: April 2023
       items: 
         - Day of Digital Humanities Lightning Talks (April, 2023)- Giving a quick presentation about my project and work on AudiAnnotate as an undergraduate researcher to encourage and support digital scholarship in the humanities. 
+    - year: April 2023
+      items:
         - 4th Annual Undergraduate Philosophy Conference, University of Texas at Dallas (April, 2023)- Giving a 20-minute presentation on my paper Contradiction and Overdetermination.
-
 
 - title: Interests
   type: list
   contents:
     - Sci-fi films, circles, Adele, Sir Edward Elgar, aesthetics, causality, <i>circles</i>, Tennessee Williams, Marcel Proust, Memory, Gilles Deleuze, philosophy of film, and philosophy of literature.
 
+- title: References
+  type: time_table
+  contents:
+    - title: Zoe Bursztajn-Illingworth, Ph.D. 
+      year: 
+      description: Postdoctoral Fellow for Digital Humanities at the University of Texas at Austin.
+      
+  - title: Tanya Clement, Ph.D. 
+      year: 
+      description: Associate Professor in the Department of English and Director of the Initiative for Digital Humanities at the University of Texas at Austin.
+      
+  - title: Robbie Kubala, Ph.D. 
+      year: 
+      description: Assistant Professor in the Department of Philosophy at the University of Texas at Austin. 
+      
+      
