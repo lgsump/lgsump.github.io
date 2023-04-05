@@ -41,7 +41,7 @@ Undergoing training for the exhibitions that are ongoing at the Harry Ransom Cen
 Engaging in thematic analysis of the different exhibitions and constructing independent research including work on early production art and storyboards in film. 
 <br>
 <br>
-<i>BB.Q Chicken, Highland Village, Austin, Texas</i>, <b>Aug. 2021 – Present<b>
+<i>BB.Q Chicken, Highland Village, Austin, Texas</i>, <b>Aug. 2021 – Present</b>
 <br>
 Server and Waiter	
 <br>
