@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-<h2><b>EDUCATION</h2> </b>	
+<h2><b>EDUCATION</b></h2>
 <br>
 <i>University of Texas at Austin</i>, <b>Expected May 2024</b>
 <br>
