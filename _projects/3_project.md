@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: A Digital Florilegium
+description: A philosophical evaluation of digital art
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://lgsump.github.io/digital-florilegium
 importance: 3
 category: work
 ---
