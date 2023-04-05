@@ -2,7 +2,7 @@
 layout: page
 title: elgar's enigma
 description: a guide to solve the mystery
-img: assets/img/7.jpg
+img: assets/img/Screen Shot 2023-04-05 at 1.29.48 PM.png
 redirect: https://lgsump.github.io/elgar-enigma-variations/
 importance: 2
 category: work
