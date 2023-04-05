@@ -1,7 +1,7 @@
 ---
 layout: page
 title: <i>Radio Venceremos</i> en español
-description: Project I did HTML and organization for PhD Candidate Vera Estrada Burrows, 2023
+description: A project I organized and did HTML for PhD Candidate Vera Estrada Burrows, <i>In Progress</i>
 img: assets/img/Screen Shot 2023-04-05 at 1.25.00 PM.png
 redirect: https://lgsump.github.io/radio-venceremos-espanol
 importance: 3
