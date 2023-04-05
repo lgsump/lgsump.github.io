@@ -92,7 +92,7 @@ An organization of all disciplines in the humanities at the University of Texas 
 <hr>
 <br>
 <br>
-<b><h2>SKILLS & INTERESTS </h2></b>
+<h2><b>SKILLS & INTERESTS</b></h2>
 <br>
 Skills: HTML, Audacity: an audio and recording software, and I am a registered Volunteer Deputy Registrar in Travis County.
 <br>
@@ -101,7 +101,7 @@ Interests: Sci-fi films, circles, Adele, Sir Edward Elgar, aesthetics, causality
 <hr>
 <br>
 <br>
-<b><h2>PROJECTS</h2></b>
+<h2><b>PROJECTS</b></h2>
 <br>
 <i>A Digital Florilegium</i> (AudiAnnotate, 2023): A collection of digital art and a philosophical argumentative digital essay using AudiAnnotate on the use of time and transformation in digital authenticity, and a rejection of traditional criticisms of digital art.
 <br>
