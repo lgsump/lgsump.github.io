@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:
+subtitle: lgsump@gmail.com
 
 
 news: false  # includes a list of news items
