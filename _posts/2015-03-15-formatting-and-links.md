@@ -1,30 +1,23 @@
 ---
 layout: post
-title:  a post with formatting and links
-date:   2015-03-15 16:40:16
-description: march & april, looking forward to summer
-tags: formatting links
-categories: sample-posts
+title:  Arrival
+date:   2021-03-15 16:40:16
+description: Arrival analysis paired with Deleuze, an example from <i>A Digital Florilegium</i>. 
+tags: 
+categories: 
 ---
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
-<hr>
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-<blockquote>
-    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-    —Anais Nin
-</blockquote>
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+<h4><i>Arrival</i> (2016), a Denis Villeneuve film, explores the role of time and our understanding of it in how it involves itself as a structure within our lives. We follow Dr. Louise Banks and her life after seemingly losing her daughter to a serious disease. In this short essay, we will point out different aspects of the film, some included in the commentaries in the clips shown before and some not, that realize some key points that Deleuze hinted to us but also give us more simplistic conceptions of the influence that time has on art and our perception of life. The film has now become a large centerpiece for philosophical and linguistic repertoires inside of Cinema. The beginning montage leads the audience to believe that the daughter of Louise had died and that we were there after seeing her role as a professor and linguist coming to terms with her daughter's death. We are led to believe that this movie was going to be about how even after her daughter’s death, her memory still lives on. In a surprise to many, as we uncover gradually throughout the film, Louise was receiving– or we were receiving– visions of the future due to her heightened ability to recognize the influence of language within her life. So, as Louise figures it out and begins to learn the language of the aliens, she becomes more and more able to see the future.</h4>
+<br>
+<br>
+<br>
+<p style="text-align:center;"><img width="82" alt="Screen Shot 2023-03-12 at 6 49 48 PM" src="https://user-images.githubusercontent.com/122332459/224581969-13c76853-e305-4e9a-b53e-9b2a3d31f5c1.png"></p>
+  <h6><center>Picture from <a href="https://www.pinterest.com/pin/476959416790757876/">Pinterest.</a></center>
+<br>
+<br>
+<h4>As shown above, the language of the aliens has a circular appearance and seems to also connect to this cyclical nature of time that Villeneuve is arguing. The previously shown montages are also in connection to this idea, as we see with the montage, in the beginning, coming back to us at the end of the film. An interesting idea behind this is that when thinking about the movie beforehand, realizing that something happened twice, like the use of montage, doesn’t necessarily relate those recurrences to the imagery of the circle. This distinction is interesting also through the use of “On The Nature Of Daylight” by Max Richter which plays throughout the montages, as we hear that two-note repetition. When we see these on a line, we see two separate and independent instances that feel more like rhythm than image. However, their imagery comes when recognizing that they are the same and aligning them with each other, pulling the two points on a line to create a loop.</h4>
+<br>
+<br>
+<h4>As we saw through <a href="https://lgsump.github.io/blog/2021/deleuze-and-time/">Deleuze’s discussion</a>, the montage itself is also a play of time and movement. Naturally, or unnaturally, montages show us an unrealistic representation of time. As we see in these two montages, the images and clips are not systematic in length, motion, or dialogue. Villeneuve seems to be connecting these ideas of time as a whole or cycle as well as viewing them as completely natural. Many distinctions made in the realm of digital art seem to criticize the function and world that these artworks develop and live in because of their distinct abstraction from nature. When we think of montages and edits of clips we often think that those decisions would guide the work away from the natural world and their natural course, but Villeneuve seems to be suggesting that these aspects of manipulation in these technological works like film give them the ability to transform these concepts much more accurately.</h4>
+<br>
+<br>
+<h4>What films like <i>Arrival</i> allow us to see is that, in many ways, the abstraction of art into the technical world but still guided by that vision can still give a very authentic feel. Even though this film was systematically made and curated with close intention; even though it was filled with mountains of organizational and bureaucratic aspects; or even through its plethora of emails; the least we can get– if not the original artistic vision of Villeneuve and the confirmation once it has gone through the process– a very real and telling transformation that those ideas go through in the seemingly independent mind of human organization. In these aspects of transformation, and especially in this case how time itself is transformed, one can free themselves from the system that one was born into. We were given a world created by Villeneuve, and he then broke it in front of us. The art of the story is central to most forms of art and is especially integral to Film. <i>Arrival</i> shows us that our conception of time is important not only in the cliche and abstract landscape of our philosophy on life, but a very real and pertinent structure to the reality of a story. As we see in both the ending and beginning montages of the film, the idea of those concepts themselves, ending and beginning, is called into question and in some sense, destroyed.
