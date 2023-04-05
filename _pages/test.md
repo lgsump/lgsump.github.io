@@ -24,6 +24,7 @@ Summer Study Abroad Program at the University of Bristol, United Kingdom (2022):
 <b><h2>EXPERIENCE</h2></b>
 <br>
 <i>Initiative for Digital Humanities, Austin, Texas</i>, <b>Jan. 2023 – Present</b>
+<br>
 Undergraduate Researcher and Intern
 <br>
 Researching under a postdoctoral student on AudiAnnotate: is a Mellon grant-funded workflow and web-app, created by Dr. Tanya Clement and developed by Brumfield Labs, for curating and sharing annotations of audiovisual collections held at libraries, archives, and museums; the initiative is within the Humanities Institute at the University of Texas at Austin.
