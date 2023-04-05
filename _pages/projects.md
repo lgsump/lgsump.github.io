@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: dh projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: digital humanities projects
 nav: true
 nav_order: 2
 display_categories: [work, fun]
