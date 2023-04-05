@@ -81,18 +81,15 @@
     - Sci-fi films, circles, Adele, Sir Edward Elgar, aesthetics, causality, <i>circles</i>, Tennessee Williams, Marcel Proust, memory, ego, identity, Gilles Deleuze, philosophy of film, and philosophy of literature.
 
 - title: References
-  type: time_table
+  type: list
   contents:
     - title: Zoe Bursztajn-Illingworth, Ph.D. 
-      year: 2023
       description: Postdoctoral Fellow for Digital Humanities at the University of Texas at Austin.
       
-  - title: Tanya Clement, Ph.D. 
-      year: 2023
+    - title: Tanya Clement, Ph.D. 
       description: Associate Professor in the Department of English and Director of the Initiative for Digital Humanities at the University of Texas at Austin.
       
-  - title: Robbie Kubala, Ph.D. 
-      year: 2024
+    - title: Robbie Kubala, Ph.D. 
       description: Assistant Professor in the Department of Philosophy at the University of Texas at Austin. 
       
       
