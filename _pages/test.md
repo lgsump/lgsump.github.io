@@ -21,7 +21,7 @@ Summer Study Abroad Program at the University of Bristol, United Kingdom (2022):
 <hr>
 <br>
 <br>
-<b><h2>EXPERIENCE</h2></b>
+<h2><b>EXPERIENCE</b></h2>
 <br>
 <i>Initiative for Digital Humanities, Austin, Texas</i>, <b>Jan. 2023 – Present</b>
 <br>
