@@ -2,7 +2,7 @@
 layout: post
 title:  The Screenwriting Story
 date:   2022-07-22 19:23:54
-description: My experience at a screenwriting festival and my internal conversation it inspired.  
+description: My experience at a screenwriting festival and the internal conversation it inspired.  
 tags: 
 categories: 
 ---
