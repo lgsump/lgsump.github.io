@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: elgar's enigma
+description: a guide to solve the mystery
+img: assets/img/7.jpg
+redirect: https://lgsump.github.io/elgar-enigma-variations/
 importance: 2
 category: work
 ---
