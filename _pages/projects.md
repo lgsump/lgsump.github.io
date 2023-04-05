@@ -6,6 +6,7 @@ description: Here lies my projects within Digital Humanities, ranging from perso
 nav: true
 nav_order: 2
 display_categories: [dh, regular]
+cv_pdf: CONTRADICTION.pdf
 horizontal: false
 ---
 
