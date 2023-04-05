@@ -4,7 +4,7 @@ title: A Digital Florilegium
 description: A philosophical evaluation of digital art
 img: assets/img/7.jpg
 redirect: https://lgsump.github.io/digital-florilegium
-importance: 3
+importance: 1
 category: work
 ---
 
