@@ -4,8 +4,8 @@ title: A Hellish Bar
 description: A radio play I wrote and annotated for my Existentialism class, 2023
 img: assets/img/Screen Shot 2023-04-13 at 12.53.44 AM.png
 redirect: https://lgsump.github.io/a-hellish-bar/
-importance: 3
-category: regular
+importance: 4
+category: dh
 ---
 
 Every project has a beautiful feature showcase page.
