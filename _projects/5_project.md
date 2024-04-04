@@ -1,9 +1,9 @@
 ---
 layout: page
-title: <i>Radio Venceremos</i> en español
-description: A project I organized and did HTML for PhD Candidate Vera Estrada Burrows, <i>In Progress</i>
+title: <i>Radio Venceremos</i> en english
+description: A duolingual project I organized and edited for PhD student Vera Estrada Burrows, <i>In Progress</i>
 img: assets/img/Screen Shot 2023-04-05 at 1.25.00 PM.png
-redirect: https://lgsump.github.io/radio-venceremos-espanol
+redirect: https://radiovenceremos.github.io/radio-venceremos-english-1/
 importance: 3
 category: dh
 ---
