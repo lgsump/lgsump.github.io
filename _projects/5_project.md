@@ -3,7 +3,7 @@ layout: page
 title: <i>Radio Venceremos</i> in English
 description: A duolingual project I organized and edited for PhD student Vera Estrada Burrows, <i>In Progress</i>
 img: assets/img/Screen Shot 2023-04-05 at 1.25.00 PM.png
-redirect: https://radiovenceremos.github.io/radio-venceremos-english-1/
+redirect: https://hipstas.github.io/radio-venceremos-english/
 importance: 3
 category: dh
 ---
